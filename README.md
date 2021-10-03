@@ -11,18 +11,18 @@
 
            Type	No #
         -------	------
-        Rural        	:  125
+        Rural    :  125
         Suburban :  625
-        Urban       :  1625
+        Urban    :  1625
 
     # Total drivers for each city type
         As per the data analysis results, total number of driver per city Urban has more number of driver compare to other 2 cities [Suburban & Rural]
 
-          Type	No #
+          Type	        No drivers
           -----------	----------
-          Rural         	     78
-          Suburban     490
-          Urban         2405
+          Rural   	     78
+          Suburban      490
+          Urban        2405
 
     # Total amount of fare for each city
         Result show that amount of fare Urban have more than others
@@ -45,9 +45,9 @@
 
         Type	Amount Fare per City ($ USD)
         -------	------------------------------------------
-        Rural       	55.486282
+        Rural      	55.486282
         Suburban    39.502714
-        Urban       	16.571468
+        Urban      	16.571468
 
 
 
